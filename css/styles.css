@@ -1,5 +1,35 @@
-body{
-	background-color:red;
-	background-size:cover;
-	background-repeat:no-repeat;
+body {
+    background-image: url(https://cdn.wallpapersafari.com/94/31/6egNSa.jpg);
+}
+
+.panel-transparent {
+    background: none;
+}
+.panel-body{
+  border 5px;
+}
+
+.panel-transparent .panel-heading{
+    background: rgba(122, 130, 136, 0.2)!important;
+}
+
+.panel-transparent .panel-body{
+    background: rgba(46, 51, 56, 0.2)!important;
+}
+li{
+  font-weight: 500;
+  color: white;
+}
+p{
+  font-weight: 500;
+  color:white;
+}
+#header{
+  color: black;
+}
+#mthood {
+  margin: 15px;
+  border: 5px solid white;
+  padding: 12px;
+  float:right;
 }

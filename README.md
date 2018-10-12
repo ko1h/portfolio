@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _About Me_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Epicodus HTML/CSS Exercise, 10.12.2018_
 
-#### By _**{List of contributors}**_
+#### By _Kohichi Horii_
 
 ## Description
 
