@@ -18,12 +18,24 @@ p{
   padding: 12px;
   float:right;
 }
+.places{
+  color: red;
+}
+.panel-title{
+  text-align: center;
+}
 
 .panel-transparent {
     background: none;
 }
 .panel-body{
-  border-top-with: 20px;
+  margin-top:10px;
+  border: #cdcdcd medium solid;
+  border-radius: 10px;
+  min-height: 10;
+  max-height: 10;
+  max-width: 10;
+  min-width: 10;
 }
 
 .panel-transparent .panel-heading{
