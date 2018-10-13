@@ -11,9 +11,10 @@ _This webpage show some the recently created projects, brief Description of abou
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _github link https://github.com/mkx3ae07/portfolio.git__
+* _github link https://mkx3ae07.github.io/portfolio/
 * _Open directory using terminal
 * _use a text editor to view repository
+
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
