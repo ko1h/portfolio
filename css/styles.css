@@ -27,15 +27,14 @@ p{
 
 .panel-transparent {
     background: none;
+    border: #cdcdcd medium solid;
 }
 .panel-body{
   margin-top:10px;
   border: #cdcdcd medium solid;
   border-radius: 10px;
-  min-height: 10;
-  max-height: 10;
-  max-width: 10;
-  min-width: 10;
+  width: 100%;
+  height: 100%;
 }
 
 .panel-transparent .panel-heading{
