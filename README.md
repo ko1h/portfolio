@@ -11,6 +11,7 @@ _This webpage show some the recently created projects, brief Description of abou
 ## Setup/Installation Requirements
 
 * _Clone this repository_
+<<<<<<< HEAD
 * _github link https://mkx3ae07.github.io/portfolio/
 * _Open directory using terminal
 * _use a text editor to view repository
